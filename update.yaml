@@ -1,0 +1,6 @@
+name: pbfusion
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - pbfusion

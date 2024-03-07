@@ -1,0 +1,6 @@
+name: pbfusion
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - pbfusion=0.4.0=hdfd78af_0
